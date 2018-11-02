@@ -3,6 +3,7 @@
 
 构建命令：
 ```
+git clone https://github.com/FineYi/docker_lnmp.git
 cd docker_lnmp
 docker-compose up -d
 ```
