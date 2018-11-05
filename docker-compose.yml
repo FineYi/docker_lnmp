@@ -1,7 +1,7 @@
 version: "2.0"
 services:
   local_nginx:
-    image: nginx:latest
+    image: nginx:alpine
     ports:
       - "8088:80"
       - "443:443"
